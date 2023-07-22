@@ -7,4 +7,4 @@ options = st.multiselect(
      ['Green', 'Yellow', 'Red', 'Blue'],
      ['Yellow', 'Red'])
 
-st.write('Your selected', options)
+st.write('Your selected:', options)
