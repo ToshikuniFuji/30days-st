@@ -1,5 +1,5 @@
 import streamlit as st
-from datatime import time, datetime
+from datetime import time, datetime
 
 st.header('st.slider')
 
