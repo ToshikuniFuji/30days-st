@@ -9,7 +9,7 @@ st.code("""
 primaryColor="#F39C12"
 backgroundColor="#2E86C1"
 secondaryBackgroundColor="#AED6F1"
-textColor="#FFFFFF#
+textColor="#FFFFFF"
 font="monospace"
 """)
 
